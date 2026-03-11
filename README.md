@@ -44,7 +44,7 @@ The software simplifies the configuration of serial communication, Modbus messag
 - Industrial sensor and DAQ system testing
 - Modbus device commissioning and diagnostics
 - Automation system simulation without physical hardware
-- Training and educational environments
+- Engineering training and educational environments
 
 ---
 
